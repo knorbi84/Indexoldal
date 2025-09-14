@@ -9,3 +9,4 @@ Ez egy próba szerkesztés az IntelliJ felületén.
 3. harmadik
 4. negyedik
 5. ötödik
+6. hatodik
