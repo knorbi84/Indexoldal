@@ -10,3 +10,4 @@ Ez egy próba szerkesztés az IntelliJ felületén.
 4. negyedik
 5. ötödik
 6. hatodik
+7. 
